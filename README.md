@@ -1,8 +1,3 @@
-<style>
-    a {
-        color: white
-    }
-</style>
 <h1 align="center">Hi 👋, I'm Mark</h1>
 <h3 align="center">A professional Platform, Devops and Software Enginner</h3>
 
