@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Terraform, Python, C#, AWS, IaC, CICD, Unity, Linux**
 
-- ⚡ Fun fact **I'm also a musician and I speak 3 Language**
+- ⚡ Fun fact **I'm also a musician and I speak 3 Languages**
 
 <h3 align="center">Notable public repositories:</h3>
 <ul>
