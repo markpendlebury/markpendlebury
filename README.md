@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an enterprise migration for a very well known airline company**
 
-- 🌱 I’m currently learning **Python, Rust and QC (yes the old quake programming langauge)**
+- 🌱 I’m currently learning **Golang, NextJS and QC (yes the old quake programming langauge)**
 
 - 📝 [https://blog.markpendlebury.co.uk/](https://blog.markpendlebury.co.uk/)
 
