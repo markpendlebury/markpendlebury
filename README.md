@@ -46,11 +46,11 @@
 </ul>
 <ul>
     <li>
-        <a href="https://github.com/markpendlebury/hashiversion">Hashiversion</a>
+        <a href="https://github.com/markpendlebury/eleviewr">Eleviewr</a>
     </li>
     <ul>
         <li>
-            An api endpoint to retrieve the latest version of the specified hashicorp software
+            A lightweight and minimalistic image viewer for wayland / Hyprland written in rust don't ya know...
         </li>
     </ul>
 </ul>
