@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A professional Platform, Devops and Software Enginner</h3>
+<h3 align="center">A professional Platform, Devops and Software Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=markpendlebury&label=Visitors&color=000000&style=flat" alt="markpendlebury" /> </p>
 
