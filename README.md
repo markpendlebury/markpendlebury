@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **an enterprise migration for a very well known airline company**
 
-- 🌱 I’m currently learning **Golang, NextJS and QC (yes the old quake programming langauge)**
+- 🌱 I’m currently learning **Golang, NextJS and QC (yes the old quake programming language)**
 
 - 📝 [https://blog.markpendlebury.co.uk/](https://blog.markpendlebury.co.uk/)
 
@@ -17,50 +17,43 @@
 <ul>
     <li>
         <a href="https://github.com/markpendlebury/ultrawide-wallpapers">Ultrawide-wallpapers</a>
+        <ul>
+            <li>
+                A collection of high quality ultrawide desktop wallpapers sources automatically from various places on the web
+            </li>
+        </ul>
     </li>
-    <ul>
-        <li>
-            A collection of high quality ultrawide desktop wallpapers sources automatically from various places on the web
-        </li>
-    </ul>
 </ul>
 <ul>
     <li>
         <a href="https://github.com/markpendlebury/HyprDots">HyprDots</a>
+        <ul>
+            <li>
+                A fully repeatable linux desktop environment built on Arch Linux using Hyprland, easy to install.
+            </li>
+        </ul>
     </li>
-    <ul>
-        <li>
-            A fully repeatable linux desktop environment built on Arch Linux using Hyprland, easy to install.
-        </li>
-    </ul>
 </ul>
 <ul>
     <li>
         <a href="https://github.com/markpendlebury/Breakout">Breakout</a>
+        <ul>
+            <li>
+                A breakout clone written in Unity Game Engine
+            </li>
+        </ul>
     </li>
-    <ul>
-        <li>
-            A breakout clone written in Unity Game Engine
-        </li>
-    </ul>
 </ul>
 <ul>
     <li>
         <a href="https://github.com/markpendlebury/eleviewr">Eleviewr</a>
+        <ul>
+            <li>
+                A lightweight and minimalistic image viewer for wayland / Hyprland written in rust don't ya know...
+            </li>
+        </ul>
     </li>
-    <ul>
-        <li>
-            A lightweight and minimalistic image viewer for wayland / Hyprland written in rust don't ya know...
-        </li>
-    </ul>
 </ul>
-
-
-</p>
-<p align="left">
-</p>
-
-
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=markpendlebury&theme=dark" alt="markpendlebury" /></p>
